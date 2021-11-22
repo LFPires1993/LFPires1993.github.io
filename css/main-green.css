@@ -694,14 +694,14 @@ body > footer .copyrights {
   padding: 8px 0;
   margin: 0 20px;
   text-align: center;
-  color: #49515d;
+  color: #222324;
   font-size: 15px;
   line-height: 1;
   font-weight: 400;
   position: relative;
   text-decoration: none;
   outline: none;
-  opacity: 0.6;
+  opacity: 0.8;
 }
 
 .site-main-menu li:last-child a {
